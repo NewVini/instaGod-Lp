@@ -66,11 +66,11 @@
     color: #fff;
     text-decoration: none;
     background: linear-gradient(
-45deg, #9d00c5, #7e006fab);
+    45deg, #9d00c5, #7e006fab);
     font-weight: bold;
     border-radius: 8px;
     width: 100%;
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
  
 .uil-abacus:before { content: '\e800'; } /* '' */
